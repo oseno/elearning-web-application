@@ -1,6 +1,6 @@
 <?php
    session_start();
-   $con = mysqli_connect("127.0.0.1","root","*Osenopweety187","codevilla");
+   $con = mysqli_connect("127.0.0.1","root","","codevilla");
    if (mysqli_connect_errno()) {
    echo "Unable to connect to MySQL! ". mysqli_connect_error();
    }
