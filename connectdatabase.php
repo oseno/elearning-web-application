@@ -1,6 +1,6 @@
 <?php
     define('USER', 'root');
-    define('PASSWORD', '*Osenopweety187');
+    define('PASSWORD', '');
     define('HOST', '127.0.0.1');
     define('DATABASE', 'codevilla');
     try {
